@@ -17,3 +17,4 @@ Para iniciar o projeto:
 ```
 npm run start
 ```
+**Observação:** Configure as environments de acordo com seu ambiente.
