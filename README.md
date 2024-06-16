@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+![Last Commit](https://img.shields.io/github/last-commit/santosjennifer/react-blog)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Blog para você compartilhar fotos e imagens
 
-## Available Scripts
+### Tecnologia:
+- React
+- Firebase
 
-In the project directory, you can run:
+### Como executar:
 
-### `npm start`
+Para instalar as dependências:
+```
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para iniciar o projeto:
+```
+npm run start
+```
